@@ -44,9 +44,3 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 4. Kategori işlemleri: Modül kategorilerinin eklenme, silme, değiştirme işlemlerinin yapıldığı sayfadır aynı zamanda sıralarının da ayarlandığı bir kategori sayfasıdır.
  ![image](https://github.com/user-attachments/assets/bee2ccaf-5b0a-4c59-af1b-ee5bc971d3ec)
 
-
-
-
-
-## ⚙️ Kurulum
-
