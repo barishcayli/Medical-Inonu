@@ -1,4 +1,4 @@
-# 🚀 Medical İnönü - https://medikal.inonu.edu.tr/
+# 🚀 Medikal İnönü - https://medikal.inonu.edu.tr/
 Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp Fakültesi öğrencilerini, doktorları buluşturmayı temel edinen bir projedir. Proje esasında öğrencilerin yapay zeka entegreli çözümsel modüllerinin sisteme belirli testlere tabii kalarak yüklemesi ve doktorların ve tıp öğrencilerin bu modülleri kullanarak daha kolay bir çalışma ortamına sahip olmalarını hedeflemektedir.
 
 ## 🧰 Kullanılan Teknolojiler
@@ -47,7 +47,8 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 #Genel
 
 Proje aktif şekilde kullanılmaktadır ve uzun yıllar kullanılmaya devam edecektir. Dönemsel projelerin yapılması ve yönetilmesi açısından kolaylıklar sağlamaktadır. 3 ay gibi bir süreçte yapılan bu proje aynı zamanda benim bitirme projemdir. Kullanıcı deneyimlerine göre geliştirme yaptığım bu süreçte tamamen kullanıcı kolaylığına odaklandım ve buna göre eklemeler çıkarmalar yaptım, özelleştirmeleri tamamen kullanıcının rahat edebileceği şekilde yaptım. 
-Ekim 2024 - Ocak 2025
-Barış Çaylı
+
+#Ekim 2024 - Ocak 2025
+#Barış Çaylı
 
 
