@@ -16,7 +16,7 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 ![image](https://github.com/user-attachments/assets/929b600c-de71-479d-a6c4-846436e03515)
 
 -Sisteme giriş yapan öğrencilerin modüllerini görebileceği, düzenleyebileceği, silebileceği bir projelerim sayfası.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/000e3d49-e477-4286-b61b-f33ce609722f)
 
 
 
