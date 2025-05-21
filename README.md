@@ -4,8 +4,8 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 ## 🧰 Kullanılan Teknolojiler
 
 - Python
-- Flask
-- React
+- Django
+- Html - css - JavaScript
 - MongoDB
 
 ## 🖼️ Ekran Görüntüleri
