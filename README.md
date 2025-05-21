@@ -11,7 +11,8 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 - IIS
   
 
--![image](https://github.com/user-attachments/assets/3425f32a-6e98-4b6e-8dbc-87c17ef41a10)
+-![image](https://github.com/user-attachments/assets/929b600c-de71-479d-a6c4-846436e03515)
+
 
 | Ana Sayfa | Detay Sayfası |
 |-----------|---------------|
