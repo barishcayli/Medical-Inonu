@@ -5,6 +5,7 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 
 - Python
 - Django
+- Bootstrap
 - Html - css - JavaScript
 - PostgreSQL
 - Celery
