@@ -20,6 +20,10 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 -Sisteme giriş yapan öğrencilerin modüllerini görebileceği, düzenleyebileceği, silebileceği bir projelerim sayfası.
 ![image](https://github.com/user-attachments/assets/000e3d49-e477-4286-b61b-f33ce609722f)
 
+-Öğrencilerin ekleyecekleri modüllerin problemsiz çalışması için önceden test ettirilmesini sağlayan bir code test sayfası. Bu sayfaya öğrenciler kodlarını ve yapay zekalarını yüklüyorlar ve eğer problemsiz bir şekilde çalışıyor ise modülleri sisteme yükleniyor aksi halde terminalden düzenlemeleri gerekiyor.
+![image](https://github.com/user-attachments/assets/59f449f0-02bf-4ba2-8f75-22453cbbf0f2)
+
+
 
 
 ## ⚙️ Kurulum
