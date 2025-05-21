@@ -8,6 +8,7 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 - Html - css - JavaScript
 - PostgreSQL
 - Celery
+- RabbitMQ
 - IIS
   
 
