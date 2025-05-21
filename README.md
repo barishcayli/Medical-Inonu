@@ -11,8 +11,8 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 - IIS
   
 
-Kategorize edilmiş bir ana sayfa ile kullanıcı kullanmak istediği modüle rahatlıkla ulaşabilmektedir
--![image](https://github.com/user-attachments/assets/929b600c-de71-479d-a6c4-846436e03515)
+Kategorize edilmiş bir ana sayfa ile kullanıcı kullanmak istediği modüle rahatlıkla ulaşabilmektedir.
+![image](https://github.com/user-attachments/assets/929b600c-de71-479d-a6c4-846436e03515)
 
 
 ## ⚙️ Kurulum
