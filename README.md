@@ -6,9 +6,12 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 - Python
 - Django
 - Html - css - JavaScript
-- MongoDB
+- PostgreSQL
+- Celery
+- IIS
+  
 
-## 🖼️ Ekran Görüntüleri
+-![image](https://github.com/user-attachments/assets/3425f32a-6e98-4b6e-8dbc-87c17ef41a10)
 
 | Ana Sayfa | Detay Sayfası |
 |-----------|---------------|
