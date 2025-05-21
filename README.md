@@ -37,6 +37,14 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 ![image](https://github.com/user-attachments/assets/c854b5e6-a7c5-4456-a8d7-0c13c822a76e)
 ![image](https://github.com/user-attachments/assets/8cb46ddc-e6c9-46a2-b75d-88bae1ffd4c9)
 
+-Genel işlemlerin kontrolü, sisteme kayıt olacak öğrencilerin ayarlanması, projelerin kontrolü, derslerin seçilmesi ve değiştirilmesi, kategorilerin eklenmesi silinmesi ya da sıralanması gibi işlemler için bir admin paneli bulunmakta işlemlerin kısayla özetlemek gerekirse.
+1. Öğrenci Listeleme: Sisteme kaydolacak öğrencilerin listesi bir excel tablosu ile yüklenir ve bu öğrenciler aldıkları derse göre kategori edilir ve sadece bu dersler için modül yükleyebilirler ya da sadece modül çalıştırabilirler. Aynı zamanda sonradan öğrenci ekleme ve silme işlemleri yapılabilmektedir
+2. Projeler: Projelerin listelenebileceğii düzenlenebileceği, silinebileceği bir sayfadır aynı zamanda aktif-pasif yapılabilmektedir pasif durumda bulunan bir modül ana sayfada gözükmemektedir.
+3. Ders işlmeleri: Dersleri ekleme, silme, düzenleme işlemlerinin yapıldığı sayfadır.
+4. Kategori işlemleri: Modül kategorilerinin eklenme, silme, değiştirme işlemlerinin yapıldığı sayfadır aynı zamanda sıralarının da ayarlandığı bir kategori sayfasıdır.
+ ![image](https://github.com/user-attachments/assets/bee2ccaf-5b0a-4c59-af1b-ee5bc971d3ec)
+
+
 
 
 
