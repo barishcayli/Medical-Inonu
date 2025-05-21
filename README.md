@@ -24,6 +24,10 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 ![image](https://github.com/user-attachments/assets/59f449f0-02bf-4ba2-8f75-22453cbbf0f2)
 
 
+-Öğrenciler eğer iki kişilik bir ekip halince çalışacaklar ise projeye iki kişinin de düzenleyebilmesi için bir ekip oluşturmaları geerekmektedir bunun için de ekip oluşturma sayfası bulunmaktadır.
+![image](https://github.com/user-attachments/assets/f216d978-a9de-4699-b5f6-32e5e17d2204)
+
+
 
 
 ## ⚙️ Kurulum
