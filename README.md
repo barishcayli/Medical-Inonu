@@ -48,7 +48,8 @@ Bu proje İnönü Üniversitesi Bilgisayar mühendisliği öğrencileri ile Tıp
 
 Proje aktif şekilde kullanılmaktadır ve uzun yıllar kullanılmaya devam edecektir. Dönemsel projelerin yapılması ve yönetilmesi açısından kolaylıklar sağlamaktadır. 3 ay gibi bir süreçte yapılan bu proje aynı zamanda benim bitirme projemdir. Kullanıcı deneyimlerine göre geliştirme yaptığım bu süreçte tamamen kullanıcı kolaylığına odaklandım ve buna göre eklemeler çıkarmalar yaptım, özelleştirmeleri tamamen kullanıcının rahat edebileceği şekilde yaptım. 
 
-#Ekim 2024 - Ocak 2025
-#Barış Çaylı
+
+##Ekim 2024 - Ocak 2025
+##Barış Çaylı
 
 
